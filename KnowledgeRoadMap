@@ -1,0 +1,12 @@
+"Knowledge Animal"
+My things to learn in coming months
+
+ands-on experience deploying and handling AWS infrastructure using Terraform or CloudFormation through CI/CD pipelines
+Experience with deploying foundational AWS services (e.g., VPC, Subnet, Routes, EC2, EKS, ELB, S3, EBS, RDS, Aurora, DynamoDB, Cloudwatch, Cloudtrail)
+Experience with AWS IAM, Security Groups, NACLs, KMS, Secret Manager, and SSM
+Good understanding of securing AWS environments and meeting compliance requirements
+Experience in fixing AWS environments
+Experience managing immutable infrastructure setups with EC2 is a plus
+Knowledge of Kubernetes and Docker and experience managing Kubernetes environments is advantageous
+Familiarity with AWS Landing Zone and underlying technology
+Experience with AWS security tools (Guard Duty, Security Hub, Inspector, Config, Access Analyzer, Macie) is a major advantage
